@@ -4,7 +4,7 @@ Welcome! This repository serves as a central hub for my work in applied AI, span
 
 ## About Me
 
-I am a senior software engineer with ~30 years of experience building production systems, currently focused on applied AI and LLM-based architectures.
+I am a senior software engineer with over 20 years of experience building production systems, currently focused on applied AI and LLM-based architectures.
 
 Over the past year, I’ve been designing and evaluating AI systems with an emphasis on:
 
